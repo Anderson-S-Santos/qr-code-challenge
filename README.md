@@ -7,7 +7,7 @@
 
 ### CSS
 - [X] Resetar o css.
-- [ ] Criar as variáveis com as cores.
+- [X] Criar as variáveis com as cores.
 - [ ] Adicionar a cor do background. 
 - [ ] Adicionar a font-familly.
 - [ ] Criar a caixa que vai receber a imagem do qr-code.

@@ -2,7 +2,7 @@
 
 ### HTML
 [ ] Fazer a estrutura do contéudo da página.
-[ ] Adicionar o favicon.
+[X] Adicionar o favicon.
 [ ] Adicionar a imagem. 
 
 ### CSS

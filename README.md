@@ -1,9 +1,9 @@
 ### Lista de Tarefas
 
 ### HTML
-- [ ] Fazer a estrutura do contéudo da página.
+- [X] Fazer a estrutura do contéudo da página.
 - [X] Adicionar o favicon.
-- [ ] Adicionar a imagem. 
+- [X] Adicionar a imagem. 
 
 ### CSS
 - [ ] Resetar o css.

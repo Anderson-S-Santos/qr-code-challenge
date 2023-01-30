@@ -6,7 +6,7 @@
 - [X] Adicionar a imagem. 
 
 ### CSS
-- [ ] Resetar o css.
+- [X] Resetar o css.
 - [ ] Criar as variáveis com as cores.
 - [ ] Adicionar a cor do background. 
 - [ ] Adicionar a font-familly.

@@ -10,6 +10,6 @@
 - [X] Criar as variáveis com as cores.
 - [X] Adicionar a cor do background. 
 - [X] Adicionar a font-familly.
+- [X] Adicionar a cor do parágrafo principal.
+- [X] Adicionar a cor do parágrafo secundário.
 - [ ] Criar a caixa que vai receber a imagem do qr-code.
-- [ ] Adicionar a cor do parágrafo principal.
-- [ ] Adicionar a cor do parágrafo secundário.

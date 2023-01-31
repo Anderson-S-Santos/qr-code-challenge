@@ -12,4 +12,4 @@
 - [X] Adicionar a font-familly.
 - [X] Adicionar a cor do parágrafo principal.
 - [X] Adicionar a cor do parágrafo secundário.
-- [ ] Criar a caixa que vai receber a imagem do qr-code.
+- [X] Criar a caixa que vai receber a imagem do qr-code.

@@ -19,8 +19,24 @@ body {
 }
 
 .subtitulo {
-    color: var(--white);
+    color: var(--light-gray);
     font-weight: 400;
     font-size: 1em;
     font-family: 'Outfit', sans-serif;
+}
+
+.cartao {
+    display: flex;
+    flex-direction: column;
+    width: 16vw;
+    background-color: white;
+    padding: 1em 1em 3em 1em;
+    margin: auto;
+    margin-top: 10em;
+    border-radius: 1em;
+}
+
+.imagemQrCode {
+    border-radius: 1em;
+    margin-bottom: 3em;
 }
